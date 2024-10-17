@@ -1,7 +1,5 @@
 # Customer-Complaint-Dashboard
 
-# Customer Complaint Dashboard in Tableau - README
-
 ## Project Overview
 
 This project focuses on building a **Customer Complaint Dashboard** in Tableau, designed to visualize and analyze customer complaints by product type, request type, and time. Instead of using traditional filters, this dashboard utilizes **parameters** to provide dynamic and interactive insights. The dashboard connects to a CSV data source and includes Key Performance Indicators (KPIs), geographical complaint analysis, and percentage-based visualizations, offering stakeholders a clear view of complaint trends across different categories and time periods.
