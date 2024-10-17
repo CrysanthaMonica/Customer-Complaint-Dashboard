@@ -1,5 +1,30 @@
 # Customer-Complaint-Dashboard
 
+# Customer-Complaint-Dashboard
+
+## Table of Contents
+1. [Project Overview](#project-overview)
+2. [Key Features](#key-features)  
+   - [Parameter-Based Filtering](#parameter-based-filtering)  
+   - [Dynamic KPIs](#dynamic-kpis)  
+   - [Complaint Breakdown by Product and Request Type](#complaint-breakdown-by-product-and-request-type)  
+   - [Geographical Analysis](#geographical-analysis)  
+   - [Percentage Calculations](#percentage-calculations)  
+   - [Dual-Axis Charts](#dual-axis-charts)
+3. [Setup Instructions](#setup-instructions)  
+   - [Prerequisites](#prerequisites)  
+   - [Steps to Create the Dashboard](#steps-to-create-the-dashboard)  
+     1. [Connecting to CSV Data Source](#connecting-to-csv-data-source)  
+     2. [Setting Up Parameters](#setting-up-parameters)  
+     3. [Designing KPIs](#designing-kpis)  
+     4. [Visualizing Complaint Data](#visualizing-complaint-data)  
+        - [Bar Chart for Complaint Percentages](#bar-chart-for-complaint-percentages)  
+        - [Geographical Tiled Map Chart](#geographical-tiled-map-chart)  
+     5. [Dual-Axis Line Chart for Time-Based Trends](#dual-axis-line-chart-for-time-based-trends)  
+     6. [Dynamic Dashboard Design](#dynamic-dashboard-design)  
+     7. [Final Touches](#final-touches)
+
+
 ## Project Overview
 
 This project focuses on building a **Customer Complaint Dashboard** in Tableau, designed to visualize and analyze customer complaints by product type, request type, and time. Instead of using traditional filters, this dashboard utilizes **parameters** to provide dynamic and interactive insights. The dashboard connects to a CSV data source and includes Key Performance Indicators (KPIs), geographical complaint analysis, and percentage-based visualizations, offering stakeholders a clear view of complaint trends across different categories and time periods.
